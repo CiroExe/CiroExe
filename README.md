@@ -1,7 +1,7 @@
-- 👋 Hola, mi nombre es Ciro Exequiel
-- 👀 Me interesa el desarrollo de software y aprender cosas nuevas. 
-- 🌱 Estoy estudiando Ingenieria Informatica en la Universad Nacional de Mar del Plata.
-- 📫 Podes encontrarme como @CiroExe
+- 👋 Hola, mi nombre es Ciro Exequiel.
+- 👀 Interesado en el desarrollo de software y en aprender cosas nuevas. 
+- 🌱 Actualmente estudiando Ingeniería Informática en la Universad Nacional de Mar del Plata.
+- 📫 Podes encontrarme como @CiroExe.
 
 
 <!---
